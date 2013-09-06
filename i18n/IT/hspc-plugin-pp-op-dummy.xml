@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<strings lang="it" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>always_fraud</id>
+<c>Payment Plugins, Dummy</c>
+<val>Sempre frode</val>
+</string>
+
+<string>
+<id>dummy_naming</id>
+<c>Payment Plugins, Dummy</c>
+<val>Plugin Carta di Credito Dummy</val>
+</string>
+
+<string>
+<id>pre_fill</id>
+<c>Payment Plugins, Dummy</c>
+<val>Precompilato</val>
+</string>
+
+<string>
+<id>red_banner_text</id>
+<c>Payment Plugins, Dummy</c>
+<val>Questa e' la versione demo del modulo di pagamento online. Non bisogna riempire  i campi di questo modulo. Qualsiasi dato inserito nel modulo non sara' inviato.</val>
+</string>
+
+</strings>

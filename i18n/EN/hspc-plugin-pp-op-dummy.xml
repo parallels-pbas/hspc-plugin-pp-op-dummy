@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<strings lang="en" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+  
+  <string>
+	<id>pre_fill</id>
+	<c>Payment Plugins, Dummy</c>
+	<val>Prefilled</val>
+  </string>
+
+  <string>
+	<id>red_banner_text</id>
+	<c>Payment Plugins, Dummy</c>
+	<val>This is a demo version of the online payment form. You do not need to fill any fields in this form. The data entered in this form will not be sent anywhere.</val>
+  </string>
+  
+  <string>
+	<id>always_fraud</id>
+	<c>Payment Plugins, Dummy</c>
+	<val>Always fraud</val>
+  </string>
+
+  <string>
+	<id>dummy_naming</id>
+	<c>Payment Plugins, Dummy</c>
+	<val>Dummy Credit Card plug-in</val>
+  </string>
+  
+</strings>

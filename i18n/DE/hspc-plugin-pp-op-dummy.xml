@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<strings lang="de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>dummy_naming</id>
+<c>Payment Plugins, Dummy</c>
+<val>Dummy-Kreditkarten-Plugin</val>
+</string>
+
+<string>
+<id>always_fraud</id>
+<c>Payment Plugins, Dummy</c>
+<val>Immer Betrug</val>
+</string>
+
+<string>
+<id>pre_fill</id>
+<c>Payment Plugins, Dummy</c>
+<val>Vorausgefüllt</val>
+</string>
+
+<string>
+<id>red_banner_text</id>
+<c>Payment Plugins, Dummy</c>
+<val>Dies ist eine Demoversion des Kreditkartenformulars. Sie müssen keine Felder in diesem Formular ausfüllen. Die in dieses Formular eingegebenen Daten werden nicht versandt.</val>
+</string>
+
+</strings>

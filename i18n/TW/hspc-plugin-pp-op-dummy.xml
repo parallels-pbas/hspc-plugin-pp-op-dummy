@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="BIG5"?>
+<strings lang="tw" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>always_fraud</id>
+<c>Payment Plugins, Dummy</c>
+<val>總是詐欺</val>
+</string>
+
+<string>
+<id>dummy_naming</id>
+<c>Payment Plugins, Dummy</c>
+<val>模擬信用卡外掛程式</val>
+</string>
+
+<string>
+<id>pre_fill</id>
+<c>Payment Plugins, Dummy</c>
+<val>預先填寫</val>
+</string>
+
+<string>
+<id>red_banner_text</id>
+<c>Payment Plugins, Dummy</c>
+<val>這是線上支付的演示，您無須填寫下邊任何資訊，這些資訊也不會被傳送出去。</val>
+</string>
+
+</strings>

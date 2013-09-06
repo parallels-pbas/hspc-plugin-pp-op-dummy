@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<strings lang="ja" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>dummy_naming</id>
+<c>Payment Plugins, Dummy</c>
+<val>ダミークレジットカードプラグイン</val>
+</string>
+
+<string>
+<id>always_fraud</id>
+<c>Payment Plugins, Dummy</c>
+<val>常に不正とする</val>
+</string>
+
+<string>
+<id>pre_fill</id>
+<c>Payment Plugins, Dummy</c>
+<val>入力済み</val>
+</string>
+
+<string>
+<id>red_banner_text</id>
+<c>Payment Plugins, Dummy</c>
+<val>これはオンライン支払いフォームのデモバージョンです。このフォームのフィールドに入力する必要はありません。ここに入力されたデータが送信されることはありません</val>
+</string>
+
+</strings>

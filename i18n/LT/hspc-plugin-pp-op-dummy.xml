@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1257"?>
+<strings lang="lt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>pre_fill</id>
+<c>Payment Plugins, Dummy</c>
+<val>Profiliuotas</val>
+</string>
+
+<string>
+<id>red_banner_text</id>
+<c>Payment Plugins, Dummy</c>
+<val>Kas ketvirtį</val>
+</string>
+
+</strings>

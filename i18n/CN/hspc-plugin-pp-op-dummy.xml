@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="gb2312"?>
+<strings lang="cn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>always_fraud</id>
+<c>Payment Plugins, Dummy</c>
+<val>总是欺诈</val>
+</string>
+
+<string>
+<id>dummy_naming</id>
+<c>Payment Plugins, Dummy</c>
+<val>模拟信用卡插件</val>
+</string>
+
+<string>
+<id>pre_fill</id>
+<c>Payment Plugins, Dummy</c>
+<val>预先填写</val>
+</string>
+
+<string>
+<id>red_banner_text</id>
+<c>Payment Plugins, Dummy</c>
+<val>这是在线支付的演示，您无须填写下边任何信息，这些信息也不会被发送出去。</val>
+</string>
+
+</strings>

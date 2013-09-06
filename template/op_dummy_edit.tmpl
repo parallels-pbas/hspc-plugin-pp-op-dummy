@@ -1,0 +1,20 @@
+<table cellspacing="0" cellpadding="5" border="0" width="550" class="formborder">
+<tr>
+  <td  align="left" width="165"><span class='FieldBody'>{"<txt_testmode>"}<br><img src="/images/1.gif" width=165 height=1></span>
+ </td>
+  <td  align="left" width="345">
+  <select id="testmode" name="testmode" class="SWs" width="">
+	{
+		foreach (keys %{$values}) {
+			$OUT .= qq[<option value="$_" ];
+			if ($_ eq $testmode) {
+				$OUT .= "SELECTED";
+			}
+			$OUT .= qq[>$values->{$_}</option>\n];
+		}
+
+	}
+
+</select>
+</td>
+</table>

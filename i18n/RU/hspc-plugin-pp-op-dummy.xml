@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<strings lang="ru" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>red_banner_text</id>
+<c>Payment Plugins, Dummy</c>
+<val>Это демо-версия бланка для электронного платежа. Заполнять бланк не требуется: любые указанные данные не будут никуда отправлены.</val>
+</string>
+
+<string>
+<id>dummy_naming</id>
+<c>Payment Plugins, Dummy</c>
+<val>Тестовый платежный модуль</val>
+</string>
+
+<string>
+<id>always_fraud</id>
+<c>Payment Plugins, Dummy</c>
+<val>Всегда возвращать сообщение о попытке мошенничества</val>
+</string>
+
+<string>
+<id>pre_fill</id>
+<c>Payment Plugins, Dummy</c>
+<val>Номер кредитной карты заполнен по умолчанию</val>
+</string>
+
+</strings>
